@@ -6,7 +6,7 @@
 ### <div align="center">I'm Shu_yv, a full-time full-stack freelance developer,working remotely since 2024</div>  
   
 
-- 🔭我的Github首页[Github Profile](https://github.com/2366983948)  
+- 🔭我的Github首页[Github Profile](https://github.com/2366983948)  - 仓库[repositories](https://github.com/2366983948?tab=repositories)
   
 
 <br/>  
