@@ -1,5 +1,5 @@
 ### Hi there 👋
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?2366983948=yang-tian-hub&show_icons=true&theme=tokyonight" /> </div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=2366983948&show_icons=true&theme=tokyonight" /> </div>
 
 
 <!--
