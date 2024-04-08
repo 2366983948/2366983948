@@ -1,5 +1,10 @@
 ### Hi there 👋
+<!-- 仓库 Star 、提交、贡献等统计信息 -->
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=2366983948&show_icons=true&theme=tokyonight" /> </div>
+<!-- 使用编程语言对比统计图 -->
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2366983948" /> </div>
+<!-- 首页计数器 -->
+<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=2366983948" /> </div>
 
 
 <!--
