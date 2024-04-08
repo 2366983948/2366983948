@@ -4,7 +4,8 @@
 <!-- 使用编程语言对比统计图 -->
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2366983948" /> </div>
 <!-- 首页计数器 -->
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=2366983948" /> </div>
+<div align="center"> <img src="https://profile-counter.glitch.me/2366983948/count.svg" /> </div>
+
 
 
 <!--
