@@ -87,7 +87,9 @@ I specialize in building robust backends that do all the heavy lifting for your 
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=2366983948&&style=flat-square" align="center" />
+    <a href="https://github.com/2366983948" target="_blank" style="display: inline-block;">
+        <img src="https://komarev.com/ghpvc/?username=2366983948&&style=flat-square"  align="center" />
+    </a>
 </div>  
   
 
